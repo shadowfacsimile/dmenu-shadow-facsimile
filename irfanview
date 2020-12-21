@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>IrfanView 4 Overview and Supported File Types</title>
+<link rel="canonical" href="https://fileinfo.com/software/irfanview/irfanview">
+<meta name="description" content="Learn more about IrfanView 4, including what file formats the program supports.">
+<meta name="keywords" content="IrfanView, IrfanView, formats, extensions, graphics, freeware, software, overview">
+<meta name="robots" content="all">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,600">
+<link rel="stylesheet" href="//cdn.fileinfo.com/css/fi.css" media="screen, print">
+<script>var ca=document.cookie.split('; ');for(var i=0;i<ca.length;i++){var c=ca[i];if(c.indexOf('fi_dark_theme=')!=-1){var html=document.getElementsByTagName('html')[0];html.className='dark';break}}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-226516-9"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-226516-9");</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+!function(t,e,n,a,i,s,c){function o(n,a){e[t]._Q.push([n,a])}e[t]||(e[t]={init:function(){o("i",arguments)},fetchBids:function(){o("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]},(s=n.createElement(a)).async=!0,s.src="//c.amazon-adsystem.com/aax2/apstag.js",(c=n.getElementsByTagName(a)[0]).parentNode.insertBefore(s,c))}("apstag",window,document,"script"),apstag.init({pubID:"1a8df5a0-42d8-4297-9e5a-335df591dd1b",adServer:"googletag",simplerGPT:!0});window.googletag=window.googletag||{cmd:[]};googletag.cmd.push(function(){var sizes_tlb=[[970,90],[728,90],[468,60],[320,100]],mapping_tlb=googletag.sizeMapping().addSize([1e3,0],[[970,90],[728,90],[468,60],[320,100]]).addSize([748,0],[[728,90],[468,60],[320,100]]).addSize([488,0],[[468,60],[320,100]]).addSize([0,0],[320,100]).build();googletag.defineSlot("/1009901/fi_tlb_2020",sizes_tlb,"div-gpt-ad-1589910687980-0").defineSizeMapping(mapping_tlb).addService(googletag.pubads());var sizes_lb=[[728,90],[468,60],[320,100]],mapping_lb=googletag.sizeMapping().addSize([1089,0],[[728,90],[468,60],[320,100]]).addSize([759,0],[[468,60],[320,100]]).addSize([748,0],[[728,90],[468,60],[320,100]]).addSize([488,0],[[468,60],[320,100]]).addSize([0,0],[320,100]).build();googletag.defineSlot("/1009901/fi_slb_2020",sizes_lb,"div-gpt-ad-1589911043271-0").defineSizeMapping(mapping_lb).addService(googletag.pubads());var sizes_ss=[[300,600],[160,600],[728,90],[468,60],[320,100]],mapping_ss=googletag.sizeMapping().addSize([971,0],[[300,600],[160,600]]).addSize([759,0],[160,600]).addSize([748,0],[[728,90],[468,60],[320,100]]).addSize([488,0],[[468,60],[320,100]]).addSize([0,0],[320,100]).build();googletag.defineSlot("/1009901/fi_sss_2020",sizes_ss,"div-gpt-ad-1589922034061-0").defineSizeMapping(mapping_ss).addService(googletag.pubads());googletag.pubads().disableInitialLoad(),googletag.pubads().enableSingleRequest(),googletag.enableServices();});googletag.cmd.push(function(){apstag.fetchBids({timeout:2000},function(t){apstag.setDisplayBids(),googletag.pubads().refresh()})});
+</script>
+<style>
+.icon1 { background-image: url(//cdn.fileinfo.com/img/icons/apps/128/irfanview_irfanview.png); }
+</style>
+<script type="application/ld+json">
+{"@context":"http://schema.org","@type":"SoftwareApplication","url":"https://fileinfo.com/software/irfanview/irfanview","name":"IrfanView","publisher":{"@type":"Organization","name":"IrfanView"},"operatingSystem":"Windows","applicationCategory":"Graphics","description":"IrfanView is a graphic viewing program for Windows.  It allows you to open a wide range of image files, create slideshows, and install plugins for additional functionality.","aggregateRating":{"@type":"AggregateRating","ratingValue":1.6269,"ratingCount":268},"image":"https://fileinfo.com/img/icons/apps/128/irfanview_irfanview.png","softwareVersion":"4"}
+</script>
+</head>
+<body>
+<div id="full">
+<header>
+<div id="content"><a href="/" class="home"><span class="visuallyhidden">FileInfo</span></a>
+<form action="/search" method="post" id="search">
+<div id="swrap">
+<input type="text" name="term" id="term" tabindex="1" placeholder="Search" aria-label="Search">
+<div id="sdiv"><button type="submit" id="submit"><span class="visuallyhidden">Submit</span></button><a id="sbutton" href="/search">Advanced Search</a></div>
+</div>
+</form>
+<a href="/random" class="random" title="Random Extension"></a>
+<a href="" id="search_button"><span class="visuallyhidden">Search</span></a>
+<nav>
+<ul id="menu">
+<li><a href="/browse/">File Types</a></li>
+<li><a href="/software/">Software</a></li>
+<li><a href="/help/">Help</a></li>
+<li><a href="#" class="themeToggle" title="Switch to dark theme" aria-label="Switch to dark theme"><span class="theme">Dark</span></a></li>
+</ul>
+</nav>
+</div>
+</header>
+<div class="adTopLB">
+<div id="div-gpt-ad-1589910687980-0">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589910687980-0'); });
+</script>
+</div>
+</div>
+<div id="main">
+<div id="lwrap">
+<div id="left">
+<h5><a href="/software/">Software</a> : <a href="/software/irfanview/">IrfanView</a> : IrfanView</h5>
+<article class="sw">
+<h1>IrfanView</h1>
+<div class="swHeader">
+<div class="swIcon icon1" title="IrfanView IrfanView Icon"></div>
+<table class="headerInfo">
+<tr><td>Version<br><div class="vDate">(as of 2/25/2019)</div></td><td class="version"><span class="vNum">4</span></td></tr>
+<tr><td>Platform</td><td><div class="osIcon win" title="Windows"></div></td></tr>
+<tr><td>License</td><td>Freeware</td></tr>
+<tr><td>Category</td><td>Graphics</td></tr>
+</table>
+<table class="headerLink">
+<tr><td><a href="https://www.irfanview.com/" rel="noopener" target="_blank" class="swLink">More Info<div class="pub">(visit publisher's website)</div></a></td></tr>
+<tr>
+<td class="swRating">
+<div class="stars">Rating: <div id="ursHolder420" class="ursHolder" data-termname="IrfanView">
+<div id="ratingStar1420" class="star1 hoverStar fullStar starImg ratingStar420" data-termID="420" data-starnum="1"></div>
+<div class="star1 hoverStar starImg emptyStar hidden greyStar420" data-termID="420" data-starnum="1"></div>
+<div id="userStar1420" class="star1 hoverStar starImg userStar hidden userStar420" data-termID="420" data-starnum="1"></div>
+<div id="ratingStar2420" class="star2 hoverStar starImg ratingStar420 halfStar" data-termID="420" data-starnum="2"></div>
+<div class="star2 hoverStar starImg emptyStar hidden greyStar420" data-termID="420" data-starnum="2"></div>
+<div id="userStar2420" class="star2 hoverStar starImg userStar hidden userStar420" data-termID="420" data-starnum="2"></div>
+<div id="ratingStar3420" class="star3 hoverStar starImg ratingStar420 emptyStar" data-termID="420" data-starnum="3"></div>
+<div class="star3 hoverStar starImg emptyStar hidden greyStar420" data-termID="420" data-starnum="3"></div>
+<div id="userStar3420" class="star3 hoverStar starImg userStar hidden userStar420" data-termID="420" data-starnum="3"></div>
+<div id="ratingStar4420" class="star4 hoverStar starImg ratingStar420 emptyStar" data-termID="420" data-starnum="4"></div>
+<div class="star4 hoverStar starImg emptyStar hidden greyStar420" data-termID="420" data-starnum="4"></div>
+<div id="userStar4420" class="star4 hoverStar starImg userStar hidden userStar420" data-termID="420" data-starnum="4"></div>
+<div id="ratingStar5420" class="star5 hoverStar starImg ratingStar420 emptyStar" data-termID="420" data-starnum="5"></div>
+<div class="star5 hoverStar starImg emptyStar hidden greyStar420" data-termID="420" data-starnum="5"></div>
+<div id="userStar5420" class="star5 hoverStar starImg userStar hidden userStar420" data-termID="420" data-starnum="5"></div>
+<div id="ratingNum420" class="ratingNum">
+<div class="ratingsTotals">
+<span id="avgVote420" class="avgVote"><b>1.6</b> / 5</span>
+(<span id="voteCount420" class="voteCount">268</span>
+<span id="voteWord420" class="voteWord"> Votes</span>)
+</div>
+</div>
+<div id="ratingMsgDiv420" class="ratingMsgDiv">
+<span id="rateMsg420" class="ratingMsg"></span>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<h2 class="review">Software Overview</h2>
+<div class="listBox features">
+<p>Main Features</p>
+<ul>
+<li>Support for a variety of image formats and some audio/video formats</li>
+<li>Plugin extensibility for obscure formats</li>
+<li>Slideshow creation capability</li>
+</ul>
+</div>
+<p>IrfanView is a graphic viewing program for Windows.  It allows you to open a wide range of image files, create slideshows, and install plugins for additional functionality.</p>
+<p>The program supports many popular image formats such as JPEG, PNG, Bitmap, and GIF.  It can also play audio and video files, including <a href="/extension/wav">.WAV</a>, <a href="/extension/mp3">.MP3</a>, and <a href="/extension/wmv">.WMV</a>.  The program supports <a href="/extension/mov">.MOV</a> and <a href="/extension/mp4">.MP4</a> file playback too, but Apple Quicktime is required.  The application can support additional formats through plugins, as well. </p>
+<p>In addition to its viewing capabilities, IrfanView allows you to create slideshows.  It provides a convenient interface for navigating to your image file location and adding it to your presentation.  You can customize your slideshow, by specifying slide settings, adding text, and looping music.  When you are done, you can save your slideshow as an <a href="/extension/exe">.EXE</a> or <a href="/extension/scr">.SCR</a> file or burn it to a CD.</p>
+<p>IrfanView is a lightweight program that supports a wide variety of image formats.  It’s extensible, as well, making it a good option for viewing obscure image formats through plugins.  But unless you are looking to open an obscure image format, there are more capable image viewers than IrfanView for the Windows platform, such as the bundled Windows Photos.</p>
+<div class="adBotLB">
+<div id="div-gpt-ad-1589911043271-0">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589911043271-0'); });
+</script>
+</div>
+</div>
+<h2 class="review supported">Supported File Types</h2>
+<br><h4>Primary file extension</h4>
+<div class="primary"><b><a href="/extension/jpg">.JPG</a></b> – JPEG Image</div>
+<h4>Other file extensions used by IrfanView 4</h4>
+<div class="extList1">
+<table class="list">
+<tr><th colspan="2">Supported File Types</th></tr>
+<tr><td><a href="/extension/bmp">.BMP</a></td><td>Bitmap Image File</td></tr>
+<tr><td><a href="/extension/cgm">.CGM</a></td><td>Computer Graphics Metafile</td></tr>
+<tr><td><a href="/extension/cr2">.CR2</a></td><td>Canon Raw Image File</td></tr>
+<tr><td><a href="/extension/dcm">.DCM</a></td><td>DICOM Image</td></tr>
+<tr><td><a href="/extension/dcx">.DCX</a></td><td>Zsoft Multi-Page Paintbrush File</td></tr>
+<tr><td><a href="/extension/dds">.DDS</a></td><td>DirectDraw Surface</td></tr>
+<tr><td><a href="/extension/ecw">.ECW</a></td><td>Enhanced Compression Wavelet Image</td></tr>
+<tr><td><a href="/extension/emf">.EMF</a></td><td>Enhanced Windows Metafile</td></tr>
+<tr><td><a href="/extension/fpx">.FPX</a></td><td>FlashPix Bitmap Image File</td></tr>
+<tr><td><a href="/extension/iff">.IFF</a></td><td>Interchange File Format</td></tr>
+<tr><td><a href="/extension/jng">.JNG</a></td><td>JPEG Network Graphic</td></tr>
+<tr><td><a href="/extension/jp2">.JP2</a></td><td>JPEG 2000 Core Image File</td></tr>
+<tr><td><a href="/extension/jxr">.JXR</a></td><td>JPEG XR Image</td></tr>
+<tr><td><a href="/extension/kdc">.KDC</a></td><td>Kodak Photo-Enhancer File</td></tr>
+<tr><td><a href="/extension/mng">.MNG</a></td><td>Multiple Network Graphic</td></tr>
+<tr><td><a href="/extension/mp3">.MP3</a></td><td>MP3 Audio File</td></tr>
+<tr><td><a href="/extension/mpg">.MPG</a></td><td>MPEG Video File</td></tr>
+<tr><td><a href="/extension/pbm">.PBM</a></td><td>Portable Bitmap Image</td></tr>
+<tr><td><a href="/extension/pcx">.PCX</a></td><td>Paintbrush Bitmap Image File</td></tr>
+<tr><td><a href="/extension/png">.PNG</a></td><td>Portable Network Graphic</td></tr>
+<tr><td><a href="/extension/psd">.PSD</a></td><td>Adobe Photoshop Document</td></tr>
+<tr><td><a href="/extension/raw">.RAW</a></td><td>Raw Image Data File</td></tr>
+<tr><td><a href="/extension/sr">.SR</a></td><td>Sun Raster Image File</td></tr>
+<tr><td><a href="/extension/sun">.SUN</a></td><td>Sun Raster Graphic File</td></tr>
+<tr><td><a href="/extension/svg">.SVG</a></td><td>Scalable Vector Graphics File</td></tr>
+<tr><td><a href="/extension/tif">.TIF</a></td><td>Tagged Image File</td></tr>
+<tr><td><a href="/extension/wdp">.WDP</a></td><td>Windows Media Photo File</td></tr>
+<tr><td><a href="/extension/wmv">.WMV</a></td><td>Windows Media Video File</td></tr>
+<tr><td><a href="/extension/xbm">.XBM</a></td><td>X11 Bitmap Graphic</td></tr>
+<tr><td><a href="/extension/xcf">.XCF</a></td><td>GIMP Image File</td></tr>
+<tr><td><a href="/extension/xpm">.XPM</a></td><td>X11 Pixmap Graphic</td></tr>
+</table>
+</div>
+<div class="extList2">
+<table class="list">
+<tr><th colspan="2">Additional Related File Formats</th></tr>
+<tr><td><a href="/extension/jpx">.JPX</a></td><td>JPEG 2000 Image File</td></tr>
+<tr><td><a href="/extension/mov">.MOV</a></td><td>Apple QuickTime Movie</td></tr>
+<tr><td><a href="/extension/mp4">.MP4</a></td><td>MPEG-4 Video File</td></tr>
+<tr><td><a href="/extension/nlm">.NLM</a></td><td>Nokia Logo File</td></tr>
+<tr><td><a href="/extension/ra">.RA</a></td><td>RealAudio File</td></tr>
+<tr><td><a href="/extension/tn">.TN</a></td><td>LG Phone Image</td></tr>
+</table>
+</div>
+<p class="swDate">Updated: February 25, 2019</p>
+</article>
+</div>
+</div>
+<div id="right">
+<h5><a href="/software/intuit/turbotax">&lsaquo; TurboTax</a> | <a href="/software/irrlicht/irrlicht">Irrlicht &rsaquo;</a></h5>
+<div class="linkAds">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-0087137714961591" data-ad-slot="9107263600" data-ad-format="link"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<div class="adRightSky">
+<div id="div-gpt-ad-1589922034061-0">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589922034061-0'); });
+</script>
+</div>
+</div>
+</div>
+</div>
+<footer><a href="https://sharpened.com/" target="_blank" rel="noopener"><span class="copyright">&copy; 2020 Sharpened Productions</span></a> &nbsp;|&nbsp; <a href="/terms">Terms of Use</a> &nbsp;|&nbsp; <a href="/privacy">Privacy Policy</a> &nbsp;|&nbsp; <a href="/about">About</a> &nbsp;|&nbsp; <a href="/contact">Contact</a></footer>
+</div>
+<script defer src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script defer src="//cdn.fileinfo.com/js/fi.js"></script>
+<script>TYPE = "sw"; SOFTID = 420;</script>
+<script defer src="//cdn.fileinfo.com/js/urs.js"></script>
+</body>
+</html>
